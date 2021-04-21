@@ -69,6 +69,57 @@ margin-bottom: 0px;
 text-align: center;
 }
 
+.Secciontabla {
+    width: 560px;
+    height: 560px;
+    background-color: rgb(218, 216, 216);
+    margin-left: auto;
+    margin-right: auto;
+    border: black solid 15px;
+}
+
+.CasillasBlancas {
+    width: 70px;
+    height: 70px;
+    float: left;
+    font-size: 2em;
+    text-align: center;
+    color: rgb(218, 216, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.CasillasNegras {
+    width: 70px;
+    height: 70px;
+    float: left;
+    font-size: 2em;
+    text-align: center;
+    color: rgb(218, 216, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(51, 48, 48);
+}
+
+.DamasRojas {
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    background-color: red;
+    box-shadow: 0 0 7px black;
+}
+
+.DamasVerdes{
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    background-color: limegreen;
+    box-shadow: 0 0 7px 03A696;
+}
+
 .Subrayado{
     text-decoration: none;
     color: white;
