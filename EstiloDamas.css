@@ -1,0 +1,81 @@
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(240, 140, 128);
+    color: white;
+}
+
+h3{
+padding: 1px 0px;
+border-radius: 15px ;
+font-weight: lighter;
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: white;
+color: black;
+}
+
+header{
+    background-color: rgb(240, 140, 128);
+}
+
+body{
+    background-color:rgb(218, 216, 216);
+    text-align: left;
+    margin: 0%;
+}
+
+.FueraDelTablero{
+    width: 1200px;
+    margin: auto;
+ }
+ 
+footer{
+    background-color: white;
+    padding: 20px;
+}
+.menu li{
+list-style: none;
+display: inline-block;
+color: white;
+padding-right: 15px;
+}
+
+.directorio li{
+    list-style: none;
+    display: inline-block;
+}
+
+#iniciar_Juego{ 
+    border-radius: 12px;
+    background: -webkit-gradient(linear,center bottom,center top,from(#3d94d1),to(#57aeea));
+    background-color: lightBlue;
+    display: inline-block;
+    font-size: 21px;
+    margin-top: 20px;
+    padding: 10px 45px;
+    vertical-align: middle;
+    font-family: Arial;
+    color: #fff;
+    border: 1px solid #84C5F3;
+    text-shadow: 0 0 3px #333333;
+    cursor: pointer;
+    box-shadow: 0 0 8px 1px #888888; 
+    box-shadow: 0 0 8px 1px #888888;
+    box-sizing: border-box;
+margin-bottom: 0px;
+}
+
+#DivIniciarJuego{
+text-align: center;
+}
+
+.Subrayado{
+    text-decoration: none;
+    color: white;
+}
+h3 .Subrayado {
+    color: black;
+}
+
+
+
